@@ -88,3 +88,6 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para má
 ## Contacto
 
 Para preguntas o soporte, contacta a través de la página de contacto del sitio o envía un email a [aguilarfloressantiago406@gmail.com].
+
+## Fecha 
+14/04/2026
